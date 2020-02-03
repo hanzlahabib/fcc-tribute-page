@@ -39,6 +39,7 @@ figcaption{
 }
 ul > li {
   text-align: start;
+  padding: 10px 20px;
 }
 
 .container{
